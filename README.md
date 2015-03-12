@@ -1,4 +1,8 @@
 # iminyao
-my blog
+just write something
+
 Author:vino24
-address:www.iminyao.com
+
+Address:www.iminyao.com
+
+About me:student of NUPT,software engineer.
