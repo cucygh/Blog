@@ -3,6 +3,8 @@ just write something
 
 Author:vino24
 
-Address:www.iminyao.com
+Website:www.iminyao.com
+
+Location:Nanjing,China
 
 About me:student of NUPT,software engineer.
