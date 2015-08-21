@@ -1,11 +1,8 @@
-# blog of Eleven Liu
+# Coding,thinking,enjoying!
 
-just write something,code,music...
 
 Author:vino24
 
-Website:www.iminyao.com
-
 Location:Nanjing,China
 
-About me:student of NUPT,software engineer.
+About me:student of NUPT,software engineer,now looking for a job.
