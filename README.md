@@ -1,9 +1,9 @@
 # Coding,thinking,enjoying!
 
 
-Author:逢十借一
+Author: 逢十借一
 
-Location:江苏 南京
+Location: 江苏 南京
 
 About me:
 
