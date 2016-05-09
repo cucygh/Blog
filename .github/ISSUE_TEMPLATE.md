@@ -11,6 +11,6 @@
 1. []()
 2. []()
 
-### 联系我：
+### 联系方式：
 
-email: jzwmxz@hotmail.com
+最近在找工作，有工作机会的可以联系我 email: jzwmxz@hotmail.com
